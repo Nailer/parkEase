@@ -1,7 +1,4 @@
 # ParkEase
-ParkEase is a smart parking coordination platform for crowded venues like stadiums, airports, hotels, or large churches. It enables real-time notifications between vehicle owners when cars block each other, reducing congestion and delays, with verifiable parking events powered by the Lisk blockchain.
-
-# ParkEase
 
 ParkEase is a smart parking coordination platform designed for crowded environments such as stadiums, airports, hotels, large religious centers, and event venues. It enables real-time communication between vehicle owners when parking congestion causes vehicles to block one another, eliminating delays, confusion, and unnecessary traffic buildup.
 
